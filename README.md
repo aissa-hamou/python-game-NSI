@@ -58,7 +58,7 @@ Le code est réparti en plusieurs modules :
 - **Zone rouge :** Si vous êtes en dehors de la carte, vous subissez 5 dégâts par tour.
 - **Énergie :** Chaque action (tir, déplacement) coûte de l'énergie. Vous en régénérez un peu après une action.
 - **Fin de manche :** Un joueur gagne la manche si l'autre a 0 PV ou abandonne. Match nul si les deux sont à 0 PV.
-- **Vainqueur de la partie :** Celui qui a gagné le plus de manches sur les 3.
+- **Vainqueur de la partie :** Celui qui a gagné le plus de manches sur les 3
 
 ---
 
