@@ -24,6 +24,7 @@ class Joueur:
             Arme(portee=3, degats=30, nom="Arme courte", cout_energie=2),
             Arme(portee=6, degats=25, nom="Arme moyenne", cout_energie=3),
             Arme(portee=10, degats=20, nom="Arme longue", cout_energie=4),
+            Arme(portee=4, degats=22, nom="AR", cout_energie=5),
         ]
         self.arme_actuelle = 0  # Index de l'arme actuelle
         self.abandonne = False
